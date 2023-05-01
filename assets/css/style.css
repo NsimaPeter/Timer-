@@ -21,8 +21,29 @@
 
 .button {
     font-size: 20px;
-    margin: 10px;
     padding: 10px 20px;
+    margin: 10px;
     color: antiquewhite;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
 
+button:hover {
+    opacity: .7;
+
+}
+
+
+#strat {
+    background-color: green;
+
+}
+#stop {
+    background-color: red;
+
+}
+#reset {
+    background-color: yellow;
 }
