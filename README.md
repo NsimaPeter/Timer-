@@ -28,6 +28,21 @@ When the timer reaches 0, an alarm will sound to notify you that the time is up.
 
 Click on the "Reset" button to reset the timer back to 45 minutes.
 
+Validator Testing
+HTML
+No errors were returned.
+CSS
+No errors were found.
+JAVASCRIPT
+no errors was found.
+
+Credits
+thanks to my frined Mattias Bouvin how helped me with some simple ideas and some youtube videos that i watched
+
+Deployment
+the project is Deployment on my Github page.
+
+
 
 
 
