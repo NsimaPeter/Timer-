@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+  }
+  
+  .timer {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+  }
+  
