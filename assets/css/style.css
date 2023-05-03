@@ -1,3 +1,5 @@
+/* body*/
+
 .container {
     text-align: center;
   }
@@ -7,6 +9,9 @@
     margin-bottom: 20px;
   }
   
+  /* div for control button and :hover */
+
+
   .controls {
     display: flex;
     justify-content: center;
@@ -27,6 +32,9 @@
     opacity: 0.7;
   }
   
+  /* background color for start stop and reset buttons */
+
+
   #start {
     background-color: #27ae60;
   }

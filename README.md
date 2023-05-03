@@ -1,39 +1,43 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+45 MINUTES TIMER
+![Timer](https://user-images.githubusercontent.com/122939682/235784083-dc65e74e-1c1c-4d1f-8aee-528bbae06ae6.png)
 
-Welcome,
+This is a simple timer app built using HTML, CSS, and JavaScript. It allows you to set a timer for 45 minutes, after which an alarm will sound to notify you that the time is up.
+It can be use in a football game to time each half of the game
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Existing Featurees
+The project is consist of HTML, CSS, and JavaScript.
+a header of Timer and three button with a span 
+it is a simple project with just one page 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+some simple CSS was used to style the Timer and the functionality for the buttons was made possible using javascript
+and also eventistener "click"
+an Update time for every second and an interval for every 1 second was made possible using javascript
+the number format to spring
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+45-Minute Timer
+This is a simple timer app built using HTML, CSS, and JavaScript. It allows you to set a timer for 45 minutes, after which an alarm will sound to notify you that the time is up.
 
-`python3 -m http.server`
+ How To Use The Timer
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Click on the "Start" button to start the timer.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+The timer will count down from 45 minutes to 0.
 
-`http_server`
+When the timer reaches 0, an alarm will sound to notify you that the time is up.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Click on the "Reset" button to reset the timer back to 45 minutes.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Validator Testing
+HTML
+No errors were returned.
+CSS
+No errors were found.
+JAVASCRIPT
+no errors was found.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Credits
+thanks to my frined Mattias Bouvin how helped me with some simple ideas and some youtube videos that i watched
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Deployment
+the project is Deployment on my Github page.
