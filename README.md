@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 45 MINUTES TIMER
+=======
+                                         45 MINUTES TIMER
+>>>>>>> e4d46c5339a435f594cc55a594ea3e75187bca23
 ![Timer](https://user-images.githubusercontent.com/122939682/235784083-dc65e74e-1c1c-4d1f-8aee-528bbae06ae6.png)
 
 This is a simple timer app built using HTML, CSS, and JavaScript. It allows you to set a timer for 45 minutes, after which an alarm will sound to notify you that the time is up.
@@ -18,11 +22,16 @@ the number format to spring
 45-Minute Timer
 This is a simple timer app built using HTML, CSS, and JavaScript. It allows you to set a timer for 45 minutes, after which an alarm will sound to notify you that the time is up.
 
+<<<<<<< HEAD
  How To Use The Timer
+=======
+                       How To Use The Timer
+>>>>>>> e4d46c5339a435f594cc55a594ea3e75187bca23
 
 Click on the "Start" button to start the timer.
 
 The timer will count down from 45 minutes to 0.
+<<<<<<< HEAD
 
 When the timer reaches 0, an alarm will sound to notify you that the time is up.
 
@@ -41,3 +50,32 @@ thanks to my frined Mattias Bouvin how helped me with some simple ideas and some
 
 Deployment
 the project is Deployment on my Github page.
+=======
+
+When the timer reaches 0, an alarm will sound to notify you that the time is up.
+
+Click on the "Reset" button to reset the timer back to 45 minutes.
+
+Validator Testing
+HTML
+No errors were returned.
+CSS
+No errors were found.
+JAVASCRIPT
+no errors was found.
+
+Credits
+thanks to my frined Mattias Bouvin how helped me with some simple ideas and some youtube videos that i watched
+
+Deployment
+the project is Deployment on my Github page.
+
+
+
+
+
+
+
+
+
+>>>>>>> e4d46c5339a435f594cc55a594ea3e75187bca23
